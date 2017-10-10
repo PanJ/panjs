@@ -1,0 +1,1 @@
+export default () => <div>PanJ loves Firebase + Next.js</div>
